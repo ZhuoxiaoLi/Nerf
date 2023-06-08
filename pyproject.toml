@@ -3,7 +3,7 @@ name = "zipnerf"
 version = "0.1.0"
 
 dependencies=[
-    "nerfstudio"
+    "nerfstudio==0.3.1"
 ]
 
 [tool.setuptools.packages.find]
